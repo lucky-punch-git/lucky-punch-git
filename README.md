@@ -15,7 +15,7 @@ I am a passionate blockchain enthusiast 🌐 specializing in node deployment and
 
 Here are some guides I've created to help you get started:
 
-- [Modular Light Indexer Set Up Guide](https://github.com/lucky-punch-git/nubit-guide/blob/main/README.md) 📝
+- [Nubit Modular Light Indexer Set Up Guide](https://github.com/lucky-punch-git/nubit-guide/blob/main/README.md) 📝
 - [0G Node and Validator Setup Guide](https://github.com/lucky-punch-git/0g-guide/blob/main/full-node-guide.md) 🛠️
 - [0G Storage Node Setup Guide](https://github.com/lucky-punch-git/0g-guide/blob/main/storage-node.md) 📦
 
