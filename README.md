@@ -18,6 +18,7 @@ Here are some guides I've created to help you get started:
 - [Nubit Modular Light Indexer Set Up Guide](https://github.com/lucky-punch-git/nubit-guide/blob/main/README.md) 📝
 - [Airchains and Validator Setup Guide](https://github.com/lucky-punch-git/guides/blob/main/airchains-guide.md) 🛠️
 - [Seda Node Setup Guide](https://github.com/lucky-punch-git/guides/blob/main/seda-guide.md) 📦
+- [Quai Node Setup Guide](https://github.com/lucky-punch-git/quai-node) ⛑
 
 
 ## Get in Touch
